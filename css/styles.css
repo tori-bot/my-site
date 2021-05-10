@@ -1,0 +1,117 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    
+}
+.topcontainer{
+   
+    margin:100px ;
+    height: 200px;
+     
+}
+.middlecontainer {
+    
+    
+}
+.bottomcontainer {
+    padding:50px 0 20px
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.bottomcloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+.topcloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+h1,h2{
+    font-family:'Abril Fatface',cursive;
+    color:black;
+    ;
+} 
+h3{
+    font-family: 'Open Sans', sans-serif;
+    color:black;
+}  
+p{
+    font-family: 'Lato',sans-serif;
+    line-height:2;
+}
+.coder{}
+.profilepic{
+    border-radius: 70px;
+    
+}
+h1{
+    font-size:3.5rem;
+    margin:50px auto 0 auto;
+    
+}
+h2{
+    font-weight: normal;
+    font-size:2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+}
+.gif{
+    width 25%;
+    height:25%;
+    
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+hr{
+    border: dotted;
+    color: gray 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: centred 100px auto;
+}
+.contactms{
+    width:40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Open Sans',sans-serif;
+    color: #0d0a0d;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+}
+
+.btn:hover {
+    background: #4e5ec9;
+    text-decoration: none;
+}
+a{
+    color:#3498db;
+    font-family:'Open Sans',sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color:blue;
+}
+.copyright{
+    color:gray;
+    font-size:0.75rem;
+    padding:20px 0;
+}
